@@ -4,6 +4,7 @@ font-family:Arial, Helvetica, sans-serif;
 background:linear-gradient(135deg,#3c8ed6,#5aa9e6);
 color:#333;
 animation:fadein 0.2s;
+font-size:19px;
 }
 
 @keyframes fadein{
@@ -81,4 +82,12 @@ background:#4c8cc9;
 color:white;
 border:none;
 cursor:pointer;
+}
+h2{
+font-size:32px;
+color:#4c8cc9;
+}
+
+p{
+font-size:19px;
 }
