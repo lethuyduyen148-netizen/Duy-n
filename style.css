@@ -91,3 +91,8 @@ color:#4c8cc9;
 p{
 font-size:19px;
 }
+.card img{
+width:100%;
+border-radius:15px;
+margin:20px 0;
+}
