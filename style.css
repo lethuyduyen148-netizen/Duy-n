@@ -96,3 +96,22 @@ width:100%;
 border-radius:15px;
 margin:20px 0;
 }
+.anh-nen{
+position:relative;
+}
+
+.anh-nen img{
+width:100%;
+border-radius:15px;
+}
+
+.chu-giua{
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+color:white;
+font-size:40px;
+font-weight:bold;
+text-shadow:2px 2px 8px black;
+}
